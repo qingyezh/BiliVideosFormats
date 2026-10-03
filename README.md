@@ -93,8 +93,6 @@ pnpm start
 
 ## Config 文件格式
 
-'''
-
 ```json
 {
   "uid": "",
@@ -103,4 +101,4 @@ pnpm start
 }
 ```
 
-'''
+> 请将上面的内容放入app/config/config.json中
