@@ -2,3 +2,4 @@ node_modules/
 app/config/config.json
 app/dist/
 app/data/
+data.html
