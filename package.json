@@ -1,0 +1,14 @@
+{
+  "name": "bili-up-video-csv",
+  "version": "1.0.0",
+  "private": true,
+  "description": "输入 B 站 UP 主 UID，爬取其主页全部视频的 BV号、标题、最高规格、点赞、投币、收藏并导出 CSV",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc && node app/dist/index.js"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "typescript": "^5.7.0"
+  }
+}
